@@ -15,3 +15,7 @@ The dataset contains the following features.
 - channel : channels that the customer using, store/Web/Multichannel
 - offer conversion : the offer sent to the customers, Discount/But One Get One/No Offer
 - months since last purchase : customer conversion(bought or not)
+
+
+# Results 
+![image](https://user-images.githubusercontent.com/112019616/231301164-a3023fd0-4f4c-432e-a94b-b8917a680c5b.png)
